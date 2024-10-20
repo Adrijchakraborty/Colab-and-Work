@@ -12,5 +12,6 @@ import ClanChat from "./ClanChat";
 import ClientChat from "./ClientChat";
 import ClientPosts from "./ClientPosts";
 import ClientSidebar from "./ClientSidebar";
+import Footer from "./Footer/Footer";
 
-export {Login,LoginSetup,Register,IfExists,Navbar,Private,UserProfile,CreateClan,JoinClan,ClanJoin,ClanChat,ClientChat,ClientPosts,ClientSidebar}
+export {Login,LoginSetup,Register,IfExists,Navbar,Private,UserProfile,CreateClan,JoinClan,ClanJoin,ClanChat,ClientChat,ClientPosts,ClientSidebar,Footer}
