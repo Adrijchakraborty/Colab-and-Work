@@ -1,0 +1,4 @@
+.bg-img {
+    background:url('../../assets/bg-img.png') no-repeat center/cover;
+    z-index: -1;
+}
